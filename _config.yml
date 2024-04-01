@@ -1,10 +1,10 @@
 title: Justin Reed # your name (or website title) here
 logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/justinthreed/">LinkedIn</a> 
   <br>
-  <a href="https://drive.google.com/file/d/1-Gli8oXPRqPeRkLCJHbyy5hLCJU3hCS1/view?usp=drive_link" class="btn btn--info">Resume</a>  
+  <a href="pdf/Resume - Justin Reed.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://github.com/justinreed23">GitHub</a> 
   
