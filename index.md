@@ -2,10 +2,6 @@
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="images/profilepic.jpg" width="50%">
-</p>
-
 ---
 
 ## Portfolio
