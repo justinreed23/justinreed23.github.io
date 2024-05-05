@@ -8,10 +8,10 @@
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](report/report.md)**_
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/midterm_preview.png?raw=true"/>
 
 ---
 
