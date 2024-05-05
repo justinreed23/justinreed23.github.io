@@ -29,9 +29,9 @@ _**[Team Project :)](https://github.com/justinreed23/Older-Smarter-Richer)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[CMO Analysis](https://docs.google.com/spreadsheets/d/1tY39zP4y5nhT6FaoxKuNhOq1p1Mw3gwI/edit?usp=sharing&ouid=109519357807786670026&rtpof=true&sd=true)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cmo_preview.png?raw=true"/>
 
 ---
 
@@ -45,7 +45,7 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+In my free time I enjoy rock climbing, reading, and following the Dallas Mavericks!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
