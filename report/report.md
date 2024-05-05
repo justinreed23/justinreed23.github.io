@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---
+
+
 ```python
 import pandas as pd
 import statsmodels.api as sm
