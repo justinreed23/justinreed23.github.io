@@ -25,7 +25,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Team Project :)](https://github.com/justinreed23/Older-Smarter-Richer)**_
 
-<img src="images/final_project?raw=true"/>
+<img src="images/final_project.png?raw=true"/>
 
 ---
 
