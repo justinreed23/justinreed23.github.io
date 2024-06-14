@@ -2,7 +2,7 @@
 
 ## About Me
 
-<!-- Upload your own photo and change the path -->
+I am a recent graduate of Lehigh University as a Finance Major with a Bachleor of Science in Business an Economics. I was born and raised in Dallas, Texas and enjoy technology, reading, and rock climbing
 
 ---
 
@@ -29,18 +29,6 @@ _**[CMBS Analysis](https://docs.google.com/spreadsheets/d/1tY39zP4y5nhT6FaoxKuNh
 
 ---
 
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
-
----
-
-## Hobbies
-
-In my free time I enjoy rock climbing, reading, and following the Dallas Mavericks!
-
----
+<!--add career objectives here later-->
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
