@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## About Me
 
 <!-- Upload your own photo and change the path -->
